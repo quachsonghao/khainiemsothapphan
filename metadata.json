@@ -1,0 +1,8 @@
+{
+  "name": "DT_Khám Phá Số Thập Phân - Vui Học Toán",
+  "description": "Trò chơi tương tác toán học giúp học sinh hiểu khái niệm số thập phân, cấu tạo phần nguyên và phần thập phân, các hàng thập phân, luyện đọc và viết số thập phân chuẩn giáo trình.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
